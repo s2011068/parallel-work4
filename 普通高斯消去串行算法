@@ -1,7 +1,5 @@
 #include <iostream>
 #include<sys/time.h>
-#include<unistd.h>
-#include <cstdlib>
 using namespace std;
 const int N=4000;
 float m[N][N];
